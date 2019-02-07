@@ -1,2 +1,2 @@
-# C++-To-C
+# CPP To C
 Implementation of c++ program in c, including virtual table
