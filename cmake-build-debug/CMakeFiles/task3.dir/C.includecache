@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cglick/Desktop/task3/poly.c
+poly.h
+/home/cglick/Desktop/task3/poly.h
+stdio.h
+-
+
+/home/cglick/Desktop/task3/poly.h
+stdlib.h
+-
+
